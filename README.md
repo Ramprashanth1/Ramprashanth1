@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Flutter , React JS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/itsjustRam](https://github.com/itsjustRam)
+- 👨‍💻 All of my projects are available at [https://github.com/Ramprashanth1](https://github.com/Ramprashanth1)
 
 - 📫 How to reach me **ramprashanth259@gmail.com**
 
